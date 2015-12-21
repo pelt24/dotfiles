@@ -1,0 +1,5 @@
+# Read the modules.
+for DOTFILE in `find ~/dotfiles/resources -type f`
+do
+  [ -f "${DOTFILE}" ] && source "${DOTFILE}"
+done
