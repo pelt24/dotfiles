@@ -15,5 +15,6 @@ apps=(
   visual-studio-code
   wireshark
   yed
+  Caskroom/cask/dropbox
 )
 brew cask install "${apps[@]}"
