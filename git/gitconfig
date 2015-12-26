@@ -1,6 +1,6 @@
 [user]
-    name = Jimmy Pelt
-    email = Jimmy.pelt@gmail.com
+    name = jimmy pelt
+    email = jimmy.pelt@gmail.com
 [core]
 	excludesfile = /Users/jimmypelt/.gitignore_global
 [difftool "sourcetree"]
